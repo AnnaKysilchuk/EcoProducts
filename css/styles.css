@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  align-items: center;
+  max-width: 1900px;
+  height: 100px;
+  padding: 0 120px;
+}
+
+.header {
+  background-color: rgba(51, 102, 0, 0.411);
+}
+.logo {
+  margin-right: 200px;
+  font-size: 40px;
+  color: rgb(34, 253, 5);
+}
+
+.main-menu {
+  display: flex;
+}
+
+.main-menu .item:not(:last-child) {
+  margin-right: 100px;
+}
+
+.service-menu {
+  display: flex;
+  margin-left: auto;
+}
+
+.service-menu .item:not(:last-child) {
+  margin-right: 54px;
+}

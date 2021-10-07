@@ -1,0 +1,13 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-auth" viewBox="0 0 29 32">
+<path stroke-linejoin="round"  stroke-miterlimit="4" stroke-width="2.6667" d="M27.556 30.222v-3.161c0-1.676-0.679-3.284-1.888-4.47s-2.848-1.851-4.557-1.851h-12.889c-1.709 0-3.348 0.666-4.557 1.851s-1.888 2.793-1.888 4.47v3.161M21.111 8.099c0 3.491-2.885 6.321-6.444 6.321s-6.444-2.83-6.444-6.321c0-3.491 2.885-6.321 6.444-6.321s6.444 2.83 6.444 6.321z"></path>
+</symbol>
+<symbol id="icon-basket" viewBox="0 0 34 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.7429" d="M1.829 1.829h5.486l3.675 18.072c0.125 0.621 0.469 1.18 0.97 1.577s1.129 0.608 1.773 0.596h13.33c0.644 0.012 1.271-0.199 1.773-0.596s0.845-0.955 0.97-1.577l2.194-11.324h-23.314M14.171 28.822c0 0.745-0.614 1.35-1.371 1.35s-1.371-0.604-1.371-1.35c0-0.745 0.614-1.35 1.371-1.35s1.371 0.604 1.371 1.35zM29.257 28.822c0 0.745-0.614 1.35-1.371 1.35s-1.371-0.604-1.371-1.35c0-0.745 0.614-1.35 1.371-1.35s1.371 0.604 1.371 1.35z"></path>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 33 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.7429" d="M31.086 30.171l-7.070-6.85M27.835 14.425c0 6.957-5.822 12.597-13.003 12.597s-13.003-5.64-13.003-12.597c0-6.957 5.822-12.597 13.003-12.597s13.003 5.64 13.003 12.597z"></path>
+</symbol>
+</defs>
+</svg>
